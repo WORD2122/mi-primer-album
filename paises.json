@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Japón",
+        "continente": "Asia",
+        "presupuesto_estimado": 2500,
+        "visitado": false
+    },
+    {
+        "id": 2,
+        "nombre": "Francia",
+        "continente": "Europa",
+        "presupuesto_estimado": 3300,
+        "visitado": false
+    },
+    {
+        "id": 3,
+        "nombre": "México",
+        "continente": "América",
+        "presupuesto_estimado": 1200,
+        "visitado": true
+    },
+    {
+        "id": 5,
+        "nombre": "Italia",
+        "continente": "Europa",
+        "presupuesto_estimado": 900,
+        "visitado": false
+    },
+    {
+        "id": 6,
+        "nombre": "España",
+        "continente": "Europa",
+        "presupuesto_estimado": 4000,
+        "visitado": true
+    },
+    {
+        "id": 7,
+        "nombre": "España",
+        "continente": "Europa",
+        "presupuesto_estimado": 4000,
+        "visitado": true
+    }
+]
